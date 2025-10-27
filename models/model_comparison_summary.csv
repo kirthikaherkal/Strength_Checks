@@ -1,0 +1,4 @@
+Model,Target,RMSE,R²
+Tensile Strength (XGB),Ultimate tensile strength (MPa),,
+Yield Strength (XGB),Yield strength (MPa),,
+Electrical Conductivity (XGB),Electrical conductivity (%IACS),,

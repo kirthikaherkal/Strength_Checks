@@ -1,0 +1,191 @@
+feature,importance
+Alloy formula_Cu-0.5Zr-0.065B,0.38545057
+Ti,0.1123975
+Alloy class_Cu-Ti alloys,0.080197684
+Aging_Y,0.057684567
+Cu,0.03990831
+Alloy formula_Cu-4.0Ni-4.0Si,0.021642728
+DOI_https://doi.org/10.1007/s12540-013-4002-x,0.019191928
+DOI_https://doi.org/10.1016/S0167-577X(02)01212-0,0.016521096
+DOI_https://doi.org/10.1016/j.msea.2006.01.068,0.015250156
+Alloy formula_Cu-2.5Ni-2.5Si,0.014554739
+Alloy formula_Cu-6Ni-1Si-0.5Al,0.013081525
+Alloy formula_Cu-1.95Be,0.012495417
+Alloy formula_Cu-1.5Ni-0.3Si-0.03P-0.05Mg,0.011425193
+Cr,0.01011141
+Be,0.009223025
+Zn,0.008916008
+Alloy formula_Cu-4.5Ni-1Si-1.2Co-0.15Mg,0.008348701
+Ni,0.008109225
+tss (h),0.007980332
+Alloy formula_Cu-4.95Ni-1.20Si,0.007664003
+Alloy formula_Cu-1Cr-0.1Zr,0.0075913332
+Tss (K),0.007101544
+Si,0.0052454653
+Secondary thermo-mechanical process_Y,0.0051893326
+Alloy formula_Cu-6Ni-1Si-0.5Al-0.15Mg-0.1Cr,0.004906477
+Alloy formula_Cu-1.9Ni-1Si-1Co-0.2Zr,0.0048431302
+DOI_https://doi.org/10.2320/jinstmet1952.62.4_301,0.004784295
+Alloy formula_Cu-6Ni-1.4Si-0.15Mg-0.1Cr,0.004224003
+Alloy formula_Cu-1.91Ni-0.47Si-0.035P,0.0041080834
+Alloy formula_Cu-2.5Ni-1.3Si,0.0039729867
+Alloy formula_Cu-3.2Ni-1.1Si,0.0038828468
+Alloy formula_Cu-0.5Cr-0.08Zr,0.0037228768
+Alloy formula_Cu-1.5Ni-1.5Si,0.0034688343
+DOI_https://doi.org/10.1016/j.msea.2017.05.001,0.0033196087
+Hardness (HV),0.0033018782
+Tag (K),0.0032022772
+Alloy formula_Cu-3.3Ni-1Si-0.8Cr-0.09Mg,0.0026520719
+tag (h),0.0026041467
+Alloy formula_Cu-1.5Ni-0.5Si,0.0024363522
+Co,0.0022251839
+DOI_https://doi.org/10.1016/j.jallcom.2015.11.103 and https://doi.org/10.1515/ntrev-2019-0034,0.0020700942
+Alloy formula_Cu-0.3Cr-0.5Zr,0.0020112416
+DOI_http://dx.doi.org/10.1016/j.msea.2005.09.118,0.0020002923
+B,0.0019713945
+Fe,0.0019570256
+DOI_https://doi.org/10.1016/j.intermet.2013.05.013,0.0019427405
+Alloy formula_Cu-4.0Ni-2.0Si,0.0018598783
+DOI_https://doi.org/10.3390/ma12132076,0.00171814
+CR reduction (%),0.0016942056
+Ag,0.0016162023
+DOI_https://doi.org/10.1016/j.jallcom.2005.09.037,0.001592073
+DOI_https://doi.org/10.1016/j.msea.2006.12.163,0.0015296597
+DOI_https://doi.org/10.1016/j.msea.2018.12.075,0.0013972867
+Alloy formula_Cu-3.2Ni-0.7Si-0.3Zn,0.0013159371
+Alloy formula_Cu-3Ni-0.63Si-0.12Ti,0.0011910244
+Alloy formula_Cu-2.31Ni-1.18Si-0.82Co,0.0011244552
+DOI_https://doi.org/10.1016/j.msea.2016.07.021,0.0010767215
+Alloy formula_Cu-6Ni-1.4Si-0.1Ti,0.001073156
+Ce,0.0010645495
+Alloy formula_Cu-3.91Ni-0.93Si,0.0009682474
+DOI_https://doi.org/10.1007/s11665-016-1987-6 and https://doi.org/10.1515/ntrev-2019-0034,0.0009531377
+Alloy formula_Cu-0.4Cr,0.0009235342
+P,0.00090446306
+Ultimate tensile strength (MPa),0.0009031217
+Alloy formula_Cu-6Ni-1.0Si-0.5Al-0.15Mg-0.1Cr,0.00088738784
+DOI_https://doi.org/10.1007/s12598-013-0024-2,0.0008247892
+Alloy formula_Cu-3.2Ni-0.60Si,0.0008144672
+DOI_https://doi.org/10.1016/j.msea.2013.02.024,0.0007863086
+Al,0.0007857031
+Alloy formula_Cu-1.4Ni-1.2Co-0.6Si,0.0007511819
+Alloy formula_Cu-2.8Ni-0.6Si,0.00075099495
+Alloy formula_Cu-2.4Ni-0.6Si,0.0006913441
+Alloy formula_Cu-4.0Ni-1.6Si,0.0006769679
+Yield strength (MPa),0.0005951885
+DOI_https://doi.org/10.1016/j.msea.2015.10.062,0.00059048703
+V,0.0005324275
+Alloy formula_Cu-6.17Ti-0.33Cr-0.16Mg,0.00052410905
+Zr,0.00051854673
+Alloy formula_Cu-2.5Ni-0.8Si,0.00049233134
+Alloy formula_Cu-3.52Ni-0.93Si-0.37Fe,0.00049032987
+Alloy formula_Cu-4Ni-1Si,0.00046793115
+Alloy formula_Cu-2.8Ni-0.7Si-0.086V,0.00046410607
+Alloy formula_Cu-2.8Ni-0.7Si,0.00046148783
+DOI_https://doi.org/10.1016/j.jallcom.2021.158667,0.0004456772
+DOI_https://doi.org/10.1007/s11665-013-0482-6 and https://doi.org/10.1515/ntrev-2019-0034,0.00042283465
+Mg,0.00040210274
+Alloy formula_Cu-3.2Ni-0.54Si,0.00038171257
+Alloy formula_Cu-3.44Ni-0.86Si,0.00035289145
+DOI_https://doi.org/10.1007/s12540-011-0807-7,0.00032851886
+Alloy formula_Cu-3.2Ni-0.95Si,0.0003217891
+DOI_https://doi.org/10.1016/j.jmatprotec.2003.12.013,0.00030441166
+DOI_https://doi.org/10.1016/j.jallcom.2016.11.137,0.00030431128
+Alloy formula_Cu-3.48Ni-0.82Co,0.0002636101
+DOI_https://doi.org/10.1016/j.matdes.2021.109929,0.0002592474
+Alloy formula_Cu-1Cr,0.00025919706
+DOI_https://doi.org/10.3390/ma14081996,0.00025666805
+Alloy formula_Cu-3.2Ni-0.47Si,0.00024776155
+Alloy formula_Cu-3.2Ni-0.40Si,0.00024494287
+Alloy formula_Cu-1.5Ni-0.6Si,0.00024331793
+Alloy formula_Cu-4.0Ni-1.3Si,0.00024328221
+Alloy formula_Cu-3.51Ni-0.93Si-0.64Mo,0.00024222332
+Alloy formula_Cu-2Be,0.00023003695
+Alloy formula_Cu-2Ni-0.5Si,0.00022634052
+DOI_https://doi.org/10.1016/j.matchar.2016.03.017,0.0002070376
+DOI_https://doi.org/10.1038/srep30907,0.00019293131
+Alloy formula_Cu-4.1Ni-1Si,0.00018577643
+Alloy formula_Cu-2.1Ni0.5Si0.2Zr,0.00018321234
+Alloy formula_Cu-1.5Ni-0.8Si,0.00018312175
+DOI_https://doi.org/10.1016/j.jallcom.2014.06.089,0.00018189767
+DOI_https://doi.org/10.1016/j.pnsc.2017.06.006,0.00017737261
+Alloy formula_Cu-2Ni-0.5Si-0.15Zr,0.00017662585
+Alloy formula_Cu-2.8Ni-0.8Si-0.8Cr,0.00016833625
+Alloy formula_Cu-2Ni-0.5Si-0.15Cr-0.15Zr,0.00016065162
+Alloy formula_Cu-1.82Ni-1.62Co-0.86Si,0.00014601121
+Alloy formula_Cu-6Ni-1.29Si-0.24Ti,0.00013207788
+Alloy formula_Cu-2.8Ni-0.7Si-0.17V,0.00012895338
+Alloy formula_Cu-0.28Cr-0.19Mg,0.000120190525
+Alloy formula_Cu-6Ni-1.5Si,0.00010939415
+Alloy formula_Cu-0.7Cr-2.0Fe,0.00010862245
+Alloy formula_Cu-0.39Cr-0.15Zr-0.12Ni-0.03Si,0.00010593735
+Alloy formula_Cu-1.3Ni-1.4Co-0.56Si-0.03Mg,0.0001014793
+Alloy formula_Cu-3.2Ti,9.880858e-05
+Alloy formula_Cu-0.1Cr-0.06Zr,9.8226854e-05
+Alloy formula_Cu-3.2Ni-0.83Si,9.6059295e-05
+Alloy formula_Cu-4.3Ti,9.5186144e-05
+Alloy formula_Cu-4.5Ti,8.9155e-05
+Alloy formula_Cu-1.84Ni-1.64Si-0.82Co,8.4870284e-05
+Alloy formula_Cu-3.52Ni-0.94Si-0.35Cr,8.296684e-05
+Alloy formula_Cu-0.7Cr-0.3Fe,7.166566e-05
+DOI_https://doi.org/10.1016/j.jallcom.2018.09.296,6.989395e-05
+Alloy formula_Cu-3.0Ni-0.7Si,5.7106445e-05
+DOI_https://doi.org/10.1016/j.jallcom.2014.07.010,5.42296e-05
+Alloy formula_Cu-1.7Be,5.0495793e-05
+DOI_https://doi.org/10.4028/www.scientific.net/MSF.561-565.2321 and https://doi.org/10.1515/ntrev-2019-0034,4.3300486e-05
+Alloy formula_Cu-6Ni-1.43Si,4.032779e-05
+Alloy formula_Cu-4Ni-1Si-0.02P,3.4490688e-05
+DOI_https://www.ams.org.cn/EN/10.11900/0412.1961.2019.00080 ,3.177441e-05
+DOI_https://doi.org/10.1016/j.msea.2006.07.121,2.9800285e-05
+Alloy formula_Cu-3.2Ni-0.73Si,2.546878e-05
+DOI_https://doi.org/10.1016/j.jallcom.2013.08.146,2.4639874e-05
+Alloy formula_Cu-2.9Ni-0.65Si,2.0432699e-05
+Alloy class_Cu-Ni-Si alloys,1.977829e-05
+Alloy formula_Cu-3Ti-2Mg,1.540934e-05
+Alloy formula_Cu-3.2Ni-0.44Si,1.493021e-05
+DOI_https://doi.org/10.1023/A:1017916930459,1.3929133e-05
+Alloy formula_Cu-3.32Ni-0.93Si-0.35Cr-0.30Zr,1.240558e-05
+DOI_https://doi.org/10.2320/matertrans.M2011173,1.2061963e-05
+Alloy formula_Cu-1Fe,1.0303094e-05
+Alloy formula_Cu-3Ni-0.7Si,1.0191363e-05
+DOI_https://www.ams.org.cn/EN/10.11900/0412.1961.2019.00080,8.601009e-06
+Alloy formula_Cu-2.25Ni-0.92Si,7.851682e-06
+Alloy formula_Cu-0.22Fe-0.06P-0.02B-0.05Ce,7.3925503e-06
+Alloy formula_Cu-5.4Ti,7.2567564e-06
+Alloy formula_Cu-2Ni-0.5Si-0.3Cr,5.1478373e-06
+DOI_http://dx.doi.org/10.1016/j.msea.2012.08.007 ,3.2937398e-06
+Alloy formula_Cu-0.42Cr-0.18Zr,5.2987417e-07
+Nb,0.0
+Sn,0.0
+Alloy formula_Cu-1.5Ti,0.0
+Alloy formula_Cu-0.85Ni-2.67Si-0.82Co,0.0
+Alloy formula_Cu-0.22Fe-0.06P,0.0
+Nd,0.0
+Mo,0.0
+Pb,0.0
+Hf,0.0
+Ca,0.0
+Mn,0.0
+La,0.0
+Pr,0.0
+Alloy formula_Cu-2.42Ni-0.88Si,0.0
+Alloy formula_Cu-2.7Ti,0.0
+Alloy formula_Cu-2.7Ti-0.15Mg-0.1Ce-0.1Zr,0.0
+Alloy formula_Cu-2.3Ni-0.7Si-0.7Co,0.0
+Alloy formula_Cu-2Ni-0.5Si-0.1Mg,0.0
+Alloy formula_Cu-6.16Ti-0.33Cr-0.16Mg-0.44Fe,0.0
+Alloy formula_Cu-4Ni-1Si-0.02P-0.02Cr,0.0
+Alloy formula_Cu-3.32Ni-0.93Si-0.37Fe-0.30Zr,0.0
+DOI_http://dx.doi.org/10.1016/j.msea.2012.08.007,0.0
+Alloy formula_Cu-6.17Ti-0.34Cr-0.16Mg-0.27Fe,0.0
+Alloy formula_Cu-6.18Ti-0.34Cr-0.16Mg-0.13Al,0.0
+Alloy formula_Cu-8Ni-1.8Si-0.6Sn-0.15Mg,0.0
+Alloy class_Cu-Be alloys,0.0
+DOI_https://doi.org/10.1016/j.actamat.2021.117118,0.0
+DOI_https://doi.org/10.1016/j.jallcom.2019.152915,0.0
+DOI_https://doi.org/10.1179/mst.1993.9.2.142,0.0
+DOI_https://doi.org/10.1023/A:1004603906359,0.0
+DOI_https://doi.org/10.1016/j.msea.2019.138592,0.0
+DOI_https://doi.org/10.1023/A:1004830000742,0.0
+DOI_https://doi.org/10.1016/j.msea.2021.141581,0.0
+DOI_https://doi.org/10.1557/jmr.2009.0251,0.0
